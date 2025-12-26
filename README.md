@@ -21,4 +21,3 @@ In this project, I did the following:
 ## 🔧 Run the Project
 ```bash
 npm run dev
->>>>>>> 9af2bfe7b8294cae9c19a8b37ed48d75920cdc4e
