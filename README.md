@@ -14,7 +14,7 @@ In this project, I did the following:
 - Added **loading spinners** while data is being fetched.  
 
 
-  ## 📸 Frame
+## 📸 Frame
 ![Home Page](./Frame/Frame.png)  
 
 ## 🔧 Run the Project
