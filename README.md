@@ -1,4 +1,4 @@
-# React-Store-APP
+# 🛒 React-Store-APP
 
 > **Description:**  
 This is a hands-on project: a **React Product App** that fetches data from an external API and displays it beautifully using **Bootstrap**.  
