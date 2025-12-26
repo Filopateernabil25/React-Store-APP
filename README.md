@@ -15,7 +15,7 @@ In this project, I did the following:
 
 > Check the screenshots below to see how the app looks in action.
 
-## 📸 Screenshots
+  ## 📸 Frame
 ![Home Page](./Frame/Frame.png)  
 
 ## 🔧 Run the Project
