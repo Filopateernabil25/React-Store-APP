@@ -13,7 +13,6 @@ In this project, I did the following:
 - Added **offline detection** to notify users when they lose internet connection.  
 - Added **loading spinners** while data is being fetched.  
 
-> Check the screenshots below to see how the app looks in action.
 
   ## 📸 Frame
 ![Home Page](./Frame/Frame.png)  
